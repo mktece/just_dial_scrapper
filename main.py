@@ -1,5 +1,6 @@
 # This is simple Example App for justdial scrapper
 # Author : Mayank Tiwari
+# This Scrapper scrap data from just dial and shows result in excel file
 
 from tkinter import Tk, Entry, Label, Button, HORIZONTAL
 from tkinter.ttk import Progressbar
